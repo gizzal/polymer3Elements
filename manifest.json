@@ -1,0 +1,7 @@
+{
+  "name": "Elements",
+  "short_name": "Elements",
+  "description": "elements for polymer 3 ",
+  "start_url": "/",
+  "display": "standalone"
+}
